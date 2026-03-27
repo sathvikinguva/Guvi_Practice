@@ -1,0 +1,10 @@
+var eng = 50;
+var mat = 49;
+var sci = 44;
+var arts = 46;
+var total = 100;
+console.log(eng + mat + sci + arts);
+console.log(total - eng);
+console.log(total * 65);
+console.log(total / 2);
+console.log(total % 2);
